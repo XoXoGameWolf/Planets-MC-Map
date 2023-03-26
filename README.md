@@ -5,4 +5,4 @@ Every 10 Minutes, an Event will happen.
 Event 1: Olympus Mons Eruption
 Event 2: Phobos & Deimos Collision into moon Malka (Custom name)
 
-Place in .minecraft\saves\ folder, Zipped or Unzipped.
+Place in .minecraft\saves\ folder, Unzipped.
